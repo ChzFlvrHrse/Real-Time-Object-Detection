@@ -1,5 +1,5 @@
 # Real-Time-Object-Detection
-Control browser with your hands using hand gestures
+Control browser using hand gestures
 
 ures. Why not try hand gestures to control your browser itself?
 
